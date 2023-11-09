@@ -4,7 +4,7 @@
 
 ## Technologies Used
 
-The projects in this repository utilize the following technologies and libraries:
+The projects utilize the following technologies and libraries:
 
 - Next.js
 - Tailwind CSS
