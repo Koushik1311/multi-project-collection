@@ -2,6 +2,14 @@
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
 
+## Technologies Used
+
+The projects in this repository utilize the following technologies and libraries:
+
+- Next.js
+- react-hot-toast
+- react-icons
+
 ## Set up Locally
 
 First, Install the dependencies and devDependencies
