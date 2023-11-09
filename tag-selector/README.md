@@ -7,6 +7,7 @@
 The projects in this repository utilize the following technologies and libraries:
 
 - Next.js
+- Tailwind CSS
 - react-hot-toast
 - react-icons
 
